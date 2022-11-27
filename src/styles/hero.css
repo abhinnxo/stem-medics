@@ -1,0 +1,15 @@
+#hero {
+  height: 100vh;
+}
+
+#hero > div {
+  width: 100vw;
+}
+
+#heroLeft {
+  transform: translateY(-125px);
+}
+#heroRight img {
+  transform: translateY(-100px);
+  margin-top: auto;
+}
